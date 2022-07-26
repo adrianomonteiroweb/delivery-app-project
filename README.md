@@ -1,6 +1,6 @@
 # Projeto App de Delivery!
 
-Projeto em grupo final de backend na Trybe de uma aplicação de delivery. 🚀
+Projeto em grupo final full stack na Trybe de uma aplicação de delivery. 🚀
 
 # Sumário
 
